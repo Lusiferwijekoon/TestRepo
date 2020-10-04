@@ -1,0 +1,18 @@
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\bin\Debug\BL.dll
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\bin\Debug\BL.pdb
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\bin\Debug\DL.dll
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\bin\Debug\DL.pdb
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\obj\Debug\BL.dll
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\BL\obj\Debug\BL.pdb
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\bin\Debug\BL.dll
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\bin\Debug\BL.pdb
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\bin\Debug\DL.dll
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\bin\Debug\DL.pdb
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\obj\Debug\BL.dll
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\BL\obj\Debug\BL.pdb

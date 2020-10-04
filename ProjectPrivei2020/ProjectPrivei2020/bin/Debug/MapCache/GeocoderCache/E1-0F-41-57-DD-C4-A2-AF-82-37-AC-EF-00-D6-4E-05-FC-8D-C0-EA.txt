@@ -1,0 +1,612 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "RV9R+8C Dehiwala-Mount Lavinia, Sri Lanka",
+      "global_code" : "6JRXRV9R+8C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "53",
+               "short_name" : "53",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "3rd Cross Street",
+               "short_name" : "3rd Cross St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rathmalana",
+               "short_name" : "Rathmalana",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dehiwala-Mount Lavinia",
+               "short_name" : "Dehiwala-Mount Lavinia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "53 3rd Cross St, Dehiwala-Mount Lavinia, Sri Lanka",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.8177492,
+               "lng" : 79.89102680000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.819098180291502,
+                  "lng" : 79.89237578029152
+               },
+               "southwest" : {
+                  "lat" : 6.816400219708497,
+                  "lng" : 79.88967781970851
+               }
+            }
+         },
+         "place_id" : "ChIJWcXCecxa4joRq75R3kR9TkE",
+         "plus_code" : {
+            "compound_code" : "RV9R+3C Dehiwala-Mount Lavinia, Sri Lanka",
+            "global_code" : "6JRXRV9R+3C"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "3rd Cross Street",
+               "short_name" : "3rd Cross St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rathmalana",
+               "short_name" : "Rathmalana",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dehiwala-Mount Lavinia",
+               "short_name" : "Dehiwala-Mount Lavinia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "26 3rd Cross St, Dehiwala-Mount Lavinia, Sri Lanka",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.817680699999999,
+               "lng" : 79.8911318
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.819029680291502,
+                  "lng" : 79.89248078029149
+               },
+               "southwest" : {
+                  "lat" : 6.816331719708498,
+                  "lng" : 79.88978281970849
+               }
+            }
+         },
+         "place_id" : "EjIyNiAzcmQgQ3Jvc3MgU3QsIERlaGl3YWxhLU1vdW50IExhdmluaWEsIFNyaSBMYW5rYSIaEhgKFAoSCV19OYDLWuI6EYaz7l8Yl4GLEBo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kandawala Road",
+               "short_name" : "Kandawala Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rathmalana",
+               "short_name" : "Rathmalana",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dehiwala-Mount Lavinia",
+               "short_name" : "Dehiwala-Mount Lavinia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kandawala Road, Dehiwala-Mount Lavinia, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.818293499999999,
+                  "lng" : 79.89151950000002
+               },
+               "southwest" : {
+                  "lat" : 6.817963499999999,
+                  "lng" : 79.8909791
+               }
+            },
+            "location" : {
+               "lat" : 6.818128499999999,
+               "lng" : 79.8912493
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.819477480291503,
+                  "lng" : 79.89259828029152
+               },
+               "southwest" : {
+                  "lat" : 6.816779519708498,
+                  "lng" : 79.8899003197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_-zjicta4joR5qLEKC9plpY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kandawala",
+               "short_name" : "Kandawala",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Rathmalana",
+               "short_name" : "Rathmalana",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dehiwala-Mount Lavinia",
+               "short_name" : "Dehiwala-Mount Lavinia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kandawala, Dehiwala-Mount Lavinia, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.8299511,
+                  "lng" : 79.8988852
+               },
+               "southwest" : {
+                  "lat" : 6.8098052,
+                  "lng" : 79.875176
+               }
+            },
+            "location" : {
+               "lat" : 6.8223652,
+               "lng" : 79.8884819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.8299511,
+                  "lng" : 79.8988852
+               },
+               "southwest" : {
+                  "lat" : 6.8098052,
+                  "lng" : 79.875176
+               }
+            }
+         },
+         "place_id" : "ChIJKzpOhs5a4joRdAsuR_MwtHU",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kandawala",
+               "short_name" : "Kandawala",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kandawala, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.829950999999999,
+                  "lng" : 79.89888510000002
+               },
+               "southwest" : {
+                  "lat" : 6.809806,
+                  "lng" : 79.8751791
+               }
+            },
+            "location" : {
+               "lat" : 6.8130615,
+               "lng" : 79.8845716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.829950999999999,
+                  "lng" : 79.89888510000002
+               },
+               "southwest" : {
+                  "lat" : 6.809806,
+                  "lng" : 79.8751791
+               }
+            }
+         },
+         "place_id" : "ChIJm94lC85a4joRKkBG8NgTPjs",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rathmalana",
+               "short_name" : "Rathmalana",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dehiwala-Mount Lavinia",
+               "short_name" : "Dehiwala-Mount Lavinia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rathmalana, Dehiwala-Mount Lavinia, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.831798099999999,
+                  "lng" : 79.8986537
+               },
+               "southwest" : {
+                  "lat" : 6.803290700000001,
+                  "lng" : 79.86249459999999
+               }
+            },
+            "location" : {
+               "lat" : 6.8195453,
+               "lng" : 79.8800832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.831798099999999,
+                  "lng" : 79.8986537
+               },
+               "southwest" : {
+                  "lat" : 6.803290700000001,
+                  "lng" : 79.86249459999999
+               }
+            }
+         },
+         "place_id" : "ChIJoeFbitNa4joR4Hwnx7PdkQU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rathmalana",
+               "short_name" : "Rathmalana",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rathmalana, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.849360900000001,
+                  "lng" : 79.89888510000002
+               },
+               "southwest" : {
+                  "lat" : 6.805779999999999,
+                  "lng" : 79.8616971
+               }
+            },
+            "location" : {
+               "lat" : 6.819546099999999,
+               "lng" : 79.8736459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.849360900000001,
+                  "lng" : 79.89888510000002
+               },
+               "southwest" : {
+                  "lat" : 6.805779999999999,
+                  "lng" : 79.8616971
+               }
+            }
+         },
+         "place_id" : "ChIJ1ann1Nta4joRDFXp9YpIYBQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dehiwala-Mount Lavinia",
+               "short_name" : "Dehiwala-Mount Lavinia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dehiwala-Mount Lavinia, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.867572,
+                  "lng" : 79.89857289999999
+               },
+               "southwest" : {
+                  "lat" : 6.8056,
+                  "lng" : 79.8593188
+               }
+            },
+            "location" : {
+               "lat" : 6.830118499999999,
+               "lng" : 79.8800832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.867572,
+                  "lng" : 79.89857289999999
+               },
+               "southwest" : {
+                  "lat" : 6.8056,
+                  "lng" : 79.8593188
+               }
+            }
+         },
+         "place_id" : "ChIJw_jBbo1a4joRU0cIfT4PgUc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colombo",
+               "short_name" : "Colombo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colombo, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.981051,
+                  "lng" : 80.2232461
+               },
+               "southwest" : {
+                  "lat" : 6.7154789,
+                  "lng" : 79.84061199999999
+               }
+            },
+            "location" : {
+               "lat" : 6.9269557,
+               "lng" : 79.8617306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.981051,
+                  "lng" : 80.2232461
+               },
+               "southwest" : {
+                  "lat" : 6.7154789,
+                  "lng" : 79.84061199999999
+               }
+            }
+         },
+         "place_id" : "ChIJjXY40tpT4joRAGLfCGSohJ8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Province, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.330474,
+                  "lng" : 80.38140989999999
+               },
+               "southwest" : {
+                  "lat" : 6.324857,
+                  "lng" : 79.81655599999999
+               }
+            },
+            "location" : {
+               "lat" : 6.901608599999999,
+               "lng" : 80.0087746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.330474,
+                  "lng" : 80.38140989999999
+               },
+               "southwest" : {
+                  "lat" : 6.324857,
+                  "lng" : 79.81655599999999
+               }
+            }
+         },
+         "place_id" : "ChIJmZuWSbRS4joRJjAclJYvwKc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.03377,
+                  "lng" : 82.14479999999999
+               },
+               "southwest" : {
+                  "lat" : 5.6816,
+                  "lng" : 79.26769999999999
+               }
+            },
+            "location" : {
+               "lat" : 7.873053999999999,
+               "lng" : 80.77179699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.03377,
+                  "lng" : 82.14479999999999
+               },
+               "southwest" : {
+                  "lat" : 5.6816,
+                  "lng" : 79.26769999999999
+               }
+            }
+         },
+         "place_id" : "ChIJnR5a9jxZ4joRjNPiALSkPeE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

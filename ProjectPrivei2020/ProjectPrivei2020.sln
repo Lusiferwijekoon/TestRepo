@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPrivei2020", "ProjectPrivei2020\ProjectPrivei2020.csproj", "{B60097DB-0E82-4F67-A7AD-290D7C841BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{81FBABB7-A024-48A2-8ACA-A0623B15462A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL", "DL\DL.csproj", "{3F7DB098-13DE-44CA-BDAA-590DDD133EC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60097DB-0E82-4F67-A7AD-290D7C841BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60097DB-0E82-4F67-A7AD-290D7C841BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60097DB-0E82-4F67-A7AD-290D7C841BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60097DB-0E82-4F67-A7AD-290D7C841BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FBABB7-A024-48A2-8ACA-A0623B15462A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FBABB7-A024-48A2-8ACA-A0623B15462A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FBABB7-A024-48A2-8ACA-A0623B15462A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FBABB7-A024-48A2-8ACA-A0623B15462A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7DB098-13DE-44CA-BDAA-590DDD133EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7DB098-13DE-44CA-BDAA-590DDD133EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7DB098-13DE-44CA-BDAA-590DDD133EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7DB098-13DE-44CA-BDAA-590DDD133EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA94A98-6927-456D-B5FB-FEAD400DC6FB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\DL\bin\Debug\DL.dll
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\DL\bin\Debug\DL.pdb
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\DL\obj\Debug\DL.dll
+C:\Users\Namal Wijekoon\source\repos\ProjectPrivei2020\DL\obj\Debug\DL.pdb
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\DL\bin\Debug\DL.dll
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\DL\bin\Debug\DL.pdb
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\DL\obj\Debug\DL.csprojAssemblyReference.cache
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\DL\obj\Debug\DL.dll
+D:\Final Year Project\FirstProgress\FinalYearProjectProgressReview\ProjectPrivei2020\DL\obj\Debug\DL.pdb
